@@ -8,12 +8,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/miguelriosoliveira)](https://linkedin.com/in/miguelriosoliveira)
 [![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat-square&logo=gmail&logoColor=white&link=mailto:miguelriosoliveira@gmail.com)](mailto:miguelriosoliveira@gmail.com)
 
-🧑‍💻 I'm a Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)
+🧑‍💻 Currently working as Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)<br/>
+🕹️ Previously worked as Game Programmer at [Mito Games](https://mitogames.com.br/)
 
-👓 Dependent on inspiration
-
-🎮 Gaming enthusiast
-
-💻 Code maker
-
+👓 Dependent on inspiration<br/>
+🎮 Gaming enthusiast<br/>
+💻 Code maker<br/>
 ☕ Coffee lover
