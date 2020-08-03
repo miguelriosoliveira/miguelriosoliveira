@@ -1,4 +1,4 @@
-# Hi, I'm Miguel
+# Hi, I'm Miguel 🧑‍💻
 
 <img align="right" src="https://github.com/miguelriosoliveira/miguelriosoliveira/blob/master/images/dev.png" width="300"/>
 
@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/miguelriosoliveira)](https://linkedin.com/in/miguelriosoliveira)
 [![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat-square&logo=gmail&logoColor=white&link=mailto:miguelriosoliveira@gmail.com)](mailto:miguelriosoliveira@gmail.com)
 
-🧑‍💻 _Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)_<br/>
+💰 _Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)_<br/>
 🕹️ _Previously Game Programmer at [Mito Games](https://mitogames.com.br/)_
 
 👓 Dependent on inspiration<br/>
