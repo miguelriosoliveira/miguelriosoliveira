@@ -1,6 +1,7 @@
 # Hi, I'm Miguel 🧑‍💻
 
-<img align="right" src="https://github.com/miguelriosoliveira/miguelriosoliveira/blob/master/images/dev.png" width="300"/>
+<!-- <img align="right" src="https://github.com/miguelriosoliveira/miguelriosoliveira/blob/master/images/dev.png" width="300"/> -->
+<img align="right" src="images/dev.png" width="300"/>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MiguelRisos)](https://twitter.com/MiguelRisos)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/miguelrisos/)](https://instagram.com/miguelrisos/)
@@ -16,4 +17,5 @@
 💻 Code maker<br/>
 ☕ Coffee lover
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=miguelriosoliveira&theme=react&layout=compact&langs_count=10)
