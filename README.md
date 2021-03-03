@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-E--mail-B23121?style=flat-square&logo=gmail&logoColor=white&link=mailto:miguelriosoliveira@gmail.com)](mailto:miguelriosoliveira@gmail.com)
 
 🧑‍💻 _Backend Engineer at [VerifyMyAge](https://verifymyage.co.uk/)_<br/>
-👨‍🚀 _Full-stack Engineer at [Trio](https://trio.dev/)_<br/>
+👨‍🚀 _Previously Full-stack Engineer at [Trio](https://trio.dev/)_<br/>
 💰 _Previously Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)_<br/>
 🕹️ _Previously Game Programmer at [Mito Games](https://mitogames.com.br/)_
 
