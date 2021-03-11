@@ -19,5 +19,7 @@
 💻 Code maker<br/>
 ☕ Coffee lover
 
+[🧮 My Code::Stats](https://codestats.net/users/miguelriosoliveira)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=miguelriosoliveira&theme=react&layout=compact&langs_count=10)
