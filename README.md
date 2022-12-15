@@ -12,7 +12,7 @@
 
 🧑‍💻 _Senior Software Engineer at [VerifyMy](https://verifymy.io/)_<br/>
 👨‍🚀 _Previously Full-stack Engineer at [Trio](https://trio.dev/)_<br/>
-💰 _Previously Full-stack Engineer at [Adianta Pagamentos](https://adianta.com.br/)_<br/>
+💰 _Previously Full-stack Engineer at [Liber Capital](https://libercapital.com.br/) (former [Adianta Pagamentos](https://adianta.com.br/))_<br/>
 🕹️ _Previously Game Programmer at [Mito Games](https://mitogames.com.br/)_
 
 👓 Dependent on inspiration<br/>
