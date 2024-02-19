@@ -25,5 +25,6 @@
 
 [🧮 My Code::Stats](https://codestats.net/users/miguelriosoliveira)
 
+[![mrios-es's 42 stats](https://badge.mediaplus.ma/landscapes/mrios-es?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=miguelriosoliveira&theme=react&layout=compact&langs_count=10)
