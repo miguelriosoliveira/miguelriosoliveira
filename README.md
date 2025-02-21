@@ -25,8 +25,10 @@
 💻 Code maker<br/>
 ☕ Coffee lover
 
-[🧮 My Code::Stats](https://codestats.net/users/miguelriosoliveira)
+[![wakatime](https://wakatime.com/badge/user/1f6f4f19-e35c-4049-8b2a-2652756f1772.svg)](https://wakatime.com/@miguelriosoliveira)
+[![codestats](https://img.shields.io/badge/dynamic/json?url=https://codestats.net/api/users/miguelriosoliveira&query=%24.total_xp&label=Code::Stats&logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfjAwcHLTn8E0WHAAACqUlEQVRIx+3US2tdVRQH8N953OTaRqgvQm1iwApiSyG11Maq0IAJjVAH4kALnRQEFVp0YgXrA8kXUFD8Ag7qRBR8IBbEKtSIpRGVSlMdNBVsFaFptCW5Zzk4556cm1r8ALr35Oy9zl6P//+/Fv+vpOeUSRDVbShEw5pKG6fV1urxtQIksn+25tVHqiO3zZiNblA477RZP1ioo3dsMGmLm4Xf/WTWrIsr0XnEt6JndyzYi1wi8ZLFKu1yFy4aLzNIdbzmIC47Zsa8wpCtths0jNSy1x3Aae+as2TQ3R6w3mA3+rQQjrqzrjrBgP0eAvcohCNalSXBWk+7vyxgh47wqRyZtpZcXoOa40Vhwe3ok1fWxnpbWLQZrVUoZ1I53hR+NiBtMJXIJaQG7cInvpdb0rLbTWDAlLZCggWsN6KQyKrswnKpg0khHEQ/JoTDYL+wr7rdI4Rv7Kxo72YHnhLC7qraG71qM7jNtCGq3z4QOjp+dMTzJqxbUeYLQhir+LiW3Nd6w5WGDn7zlltL9//uoFQqIw54x3cuCR3hvFF4UghTFQcjPjQOtvrYlrqElV7IDHvcjBC+lvOgEJ6p4BoXngP7hMdowJZW/Cc1KmGKW8wL71e/JjbqrwR0R/24t0/Tmq9wKHXBUUwYtawlnHEFdMzV/R6yBkKFJfxBV3rbLAmf60emT6uWauo6sEZaaa/cfXhCCHtL7A8L4QubGun22+kjz4JXvGe0nkcJtjsnnDOY60hNG3DIfU44ZsYF19tkzJDcZ6DtYVNO+dKcv6yzw6Q2XvZrlxr2OLlqoFzylV1KuR+32LAUwhmPIu0mnFUj7V4j1vjTL0456WwD+2Gj7rJB26J5Jxx3Wapotu7VQ7U7h3vncReJ7GqGm07KVJvOkh7rqqH+X15/A4KR4pXr8wp+AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTA3VDA3OjQ1OjU3KzAxOjAwlMWKwgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0wN1QwNzo0NTo1NyswMTowMOWYMn4AAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC)](https://codestats.net/users/miguelriosoliveira)
 
 [![mrios-es's 42 stats](https://badge.mediaplus.ma/landscapes/mrios-es?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=miguelriosoliveira&theme=react&layout=compact&langs_count=10)
