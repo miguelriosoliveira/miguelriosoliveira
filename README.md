@@ -26,6 +26,5 @@
 [![wakatime](https://wakatime.com/badge/user/1f6f4f19-e35c-4049-8b2a-2652756f1772.svg)](https://wakatime.com/@miguelriosoliveira)
 [![codestats](https://img.shields.io/badge/dynamic/json?url=https://codestats.net/api/users/miguelriosoliveira&query=%24.total_xp&label=Code::Stats&logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAADRAAAA0QGrJC1wAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAYxJREFUOI3N1MGLzVEUB/DPGb1MTfFmlBjRqymKLDT2mGZppxQW/gIrxvwBkkaWdmqQ5H9Q7ESilEYzQ3ZkQTZqJuodi3eefjVv2Lw0t27n3HPP+Z7T95x7IzMNc40MFW3LAUZEbDBmpuJxF25gGb9qf8JjXGj4HcBi3XXxA29wKzNFZoqIKTzBOO7hFb6gg1msZ+bFiJjAUgEtYAVtTONMZk5BFMA3HOxX0twYKXkeiROb+YxgpjJcz8zV4qbV4KmVmd06Tpb8PIC6Lr2mnCrb0wLYh7elt/GxEfei5GJEzETE6IamFGeJnY3yW4P0Ol/BWsX8xDPMY6z/SO7WZbsRtKeh7x3A1wTO4TZWK34ZO+BaGY6V8yRelt7G0qBGNcADVwtjHk7WYe5vgf8AHdUbpfv9DM/xHYc3CeiU3I/tA+6PV1EL/cHu6A32btypBNtwFKexkplnI2IOl/GwJuFr+VzCGKabWcaLz3fVxTW8xwPMls8h3MRrvYewjg94hCN/nt4w19b6vv4L4G/vQzd/GlKZBwAAAABJRU5ErkJggg==)](https://codestats.net/users/miguelriosoliveira)
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miguelriosoliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=miguelriosoliveira&theme=react&layout=compact&langs_count=10)
